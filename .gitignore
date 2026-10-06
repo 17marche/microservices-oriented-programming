@@ -1,0 +1,18 @@
+# Course material                                                                                                                                                       
+unipr-dotnet-2026/                                                                                                                                                                    
+estensione.png                                                                                                                                                                        
+                                                                                                                                                                                        
+# Build .NET / C#                                                                                                                                                                     
+bin/                                                                                                                                                                                  
+obj/                                                                                                                                                                                  
+*.suo                                                                                                                                                                                 
+*.user                                                                                                                                                                                
+*.userosscache                                                                                                                                                                        
+*.sln.docstates                                                                                                                                                                       
+
+# IDE and local config
+.vscode/*
+!.vscode/tasks.json
+!.vscode/launch.json
+.idea/
+*.swp
