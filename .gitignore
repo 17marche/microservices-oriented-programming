@@ -1,14 +1,13 @@
-# Course material                                                                                                                                                       
-unipr-dotnet-2026/                                                                                                                                                                    
-estensione.png                                                                                                                                                                        
-                                                                                                                                                                                        
-# Build .NET / C#                                                                                                                                                                     
-bin/                                                                                                                                                                                  
-obj/                                                                                                                                                                                  
-*.suo                                                                                                                                                                                 
-*.user                                                                                                                                                                                
-*.userosscache                                                                                                                                                                        
-*.sln.docstates                                                                                                                                                                       
+# Course material
+unipr-dotnet-2026/
+
+# Build .NET / C#
+bin/
+obj/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
 
 # IDE and local config
 .vscode/*
